@@ -5,3 +5,4 @@ C:\Users\User\Desktop\hello\hello\obj\x86\Debug\hello.Properties.Resources.resou
 C:\Users\User\Desktop\hello\hello\obj\x86\Debug\hello.csproj.GenerateResource.Cache
 C:\Users\User\Desktop\hello\hello\obj\x86\Debug\hello.exe
 C:\Users\User\Desktop\hello\hello\obj\x86\Debug\hello.pdb
+C:\Users\User\Desktop\hello\hello\obj\x86\Debug\hello.csprojResolveAssemblyReference.cache
